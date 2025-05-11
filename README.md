@@ -216,6 +216,7 @@ A curated list of awesome things related to Vue 3
 - [V-privacy](https://github.com/fchancel/v-privacy) - A Vue 3 plugin that allows you to manage the privacy of an HTML element by blurring its content and optional encrypt node text data in DOM.
 - [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and a SCSS framework integrated.
 - [Vue 3 Easter Egg Trigger](https://github.com/webdevnerdstuff/vue3-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue3 site.
+- [vue-intlayer](https://github.com/aymericzip/intlayer) - Intlayer i18n solution for vue 3.
 
 ## Examples
 
@@ -256,6 +257,7 @@ A curated list of awesome things related to Vue 3
 - [Sneat Free Vuetify VueJS Admin Template](https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Opensource & Free Vuejs admin template.
 - [Vue3 Atomic Design](https://github.com/alexander-elgin/vue3-atomic-design) - A Vue3 boilerplate based on atomic design methodology
 - [Sneat-free-vuetify-nuxtjs-admin-template](https://github.com/themeselection/sneat-vuetify-nuxtjs-admin-template-free) - Open Source NuxtJS admin template based on latest Vuetify, NuxtJS 3, Vue 3 & Typescript for developing responsive web apps with ease.
+- [i18n boilerplate Intlayer + Vue 3 + Vite](https://github.com/aymericzip/intlayer-vite-vue-template)
 
 
 ## Tools
@@ -309,3 +311,4 @@ A curated list of awesome things related to Vue 3
 - [Become a Ninja with Vue - online training (EN and FR versions)](https://vue-exercises.ninja-squad.com)
 - [Introduction to Vue 3](https://frontendmasters.com/courses/vue-3/)
 - [Build Web Apps with Vue JS 3 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/)
+- [Getting Started Internationalizing (i18n) with Intlayer and Vite and Vue](https://intlayer.org/doc/environment/vite-and-vue)
