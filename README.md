@@ -298,6 +298,7 @@ A curated list of awesome things related to Vue 3
 ## Courses
 
 - [The Vue.js 3 Master Class](https://vueschool.io/courses/the-vuejs-3-master-class)
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [What's new in Vue 3](https://vueschool.io/courses/whats-new-in-vue-3)
 - [Vue 3 Essentials](https://www.vuemastery.com/courses/vue-3-essentials/why-the-composition-api/)
 - [Vue 3 Deep Dive with Evan You](https://www.vuemastery.com/courses/vue3-deep-dive-with-evan-you/vue3-overview/)
