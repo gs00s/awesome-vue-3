@@ -198,6 +198,7 @@ A curated list of awesome things related to Vue 3
 - [vue-video-annotation](https://github.com/xwellingtonx/vue-video-annotation) - Vue3 component that allows adding annotations to videos by free drawing or adding shapes like circles, squares, and arrows.
 - [qalendar](https://github.com/tomosterlund/qalendar) - A component library with an event calendar & datepicker.
 - [Vuedoc Markdown](https://gitlab.com/vuedoc/md) - Generate a Markdown Documentation for a Vue Component
+- [markstream-vue](https://github.com/Simon-He95/markstream-vue) - A Vue 3 streaming Markdown renderer for AI chat, supporting incomplete Markdown, Mermaid, KaTeX, long responses, and streaming code blocks.
 - [Vuedoc Parser](https://gitlab.com/vuedoc/parser) - Generate a JSON documentation for a Vue component
 - [vorms](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 - [@vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker) - The most complete datepicker solution for Vue 3
