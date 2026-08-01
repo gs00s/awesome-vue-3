@@ -15,6 +15,7 @@ A curated list of awesome things related to Vue 3
   - [Related awesome lists](#related-awesome-lists)
   - [Articles](#articles)
   - [Packages](#packages)
+    - [Form editor](#form-editor)
   - [Examples](#examples)
   - [Tools](#tools)
   - [Videos](#videos)
@@ -216,6 +217,11 @@ A curated list of awesome things related to Vue 3
 - [V-privacy](https://github.com/fchancel/v-privacy) - A Vue 3 plugin that allows you to manage the privacy of an HTML element by blurring its content and optional encrypt node text data in DOM.
 - [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and a SCSS framework integrated.
 - [Vue 3 Easter Egg Trigger](https://github.com/webdevnerdstuff/vue3-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue3 site.
+- [Everright-filter](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
+
+#### Form editor
+
+- [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor. The PC depends on element-plus while the mobile depends on vant.
 
 ## Examples
 
