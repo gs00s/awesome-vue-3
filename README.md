@@ -26,9 +26,6 @@ A curated list of awesome things related to Vue 3
 
 ## Official
 
-- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI Agent Monitoring Dashboard for OpenClaw | [Demo](http://47.109.47.116/)
-
-
 - [Official Documentation](https://vuejs.org/)
 - [Vue Composition API](https://vuejs.org/guide/introduction.html)
 - [RFCs for substantial changes / feature additions to Vue core](https://github.com/vuejs/rfcs)
@@ -274,7 +271,7 @@ A curated list of awesome things related to Vue 3
 - [Vue3 Atomic Design](https://github.com/alexander-elgin/vue3-atomic-design) - A Vue3 boilerplate based on atomic design methodology
 - [Sneat-free-vuetify-nuxtjs-admin-template](https://github.com/themeselection/sneat-vuetify-nuxtjs-admin-template-free) - Open Source NuxtJS admin template based on latest Vuetify, NuxtJS 3, Vue 3 & Typescript for developing responsive web apps with ease.
 - [YummyAdmin](https://github.com/doroudi/YummyAdmin) - 📈 Totaly free Vue 3 Dashboard template based on NaiveUI, Typescript, MSW, Tailwindcss, multilanguage, fully RTL support and production ready.
-
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends.
 
 ## Tools
 
