@@ -220,6 +220,7 @@ A curated list of awesome things related to Vue 3
 - [Vue 3 Easter Egg Trigger](https://github.com/webdevnerdstuff/vue3-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue3 site.
 - [Everright-filter](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
 - [Vue 3 social sharing](https://github.com/hedint/vue3-social-sharing) - Style agnostic Vue 3 plugin for sharing your links on major social networks.
+- [vue3-datagrid](https://github.com/revolist/vue3-datagrid) - Powerful virtual data grid spreadsheet for Vue 3 with advanced customization based on [revogrid](https://rv-grid.com).
 
 #### Form editor
 
