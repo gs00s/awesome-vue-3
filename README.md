@@ -26,6 +26,9 @@ A curated list of awesome things related to Vue 3
 
 ## Official
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI Agent Monitoring Dashboard for OpenClaw | [Demo](http://47.109.47.116/)
+
+
 - [Official Documentation](https://vuejs.org/)
 - [Vue Composition API](https://vuejs.org/guide/introduction.html)
 - [RFCs for substantial changes / feature additions to Vue core](https://github.com/vuejs/rfcs)
