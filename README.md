@@ -221,6 +221,7 @@ A curated list of awesome things related to Vue 3
 - [Everright-filter](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
 - [Vue 3 social sharing](https://github.com/hedint/vue3-social-sharing) - Style agnostic Vue 3 plugin for sharing your links on major social networks.
 - [vue3-datagrid](https://github.com/revolist/vue3-datagrid) - Powerful virtual data grid spreadsheet for Vue 3 with advanced customization based on [revogrid](https://rv-grid.com).
+- [Vue3 Pivottable](https://github.com/vue-pivottable/vue3-pivottable) – A Vue 3 port of the jQuery-based PivotTable.js.
 
 #### Form editor
 
