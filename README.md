@@ -219,6 +219,7 @@ A curated list of awesome things related to Vue 3
 - [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and a SCSS framework integrated.
 - [Vue 3 Easter Egg Trigger](https://github.com/webdevnerdstuff/vue3-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue3 site.
 - [Everright-filter](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
+- [Vue 3 social sharing](https://github.com/hedint/vue3-social-sharing) - Style agnostic Vue 3 plugin for sharing your links on major social networks.
 
 #### Form editor
 
