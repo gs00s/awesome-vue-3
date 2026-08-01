@@ -265,6 +265,7 @@ A curated list of awesome things related to Vue 3
 - [Sneat Free Vuetify VueJS Admin Template](https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Opensource & Free Vuejs admin template.
 - [Vue3 Atomic Design](https://github.com/alexander-elgin/vue3-atomic-design) - A Vue3 boilerplate based on atomic design methodology
 - [Sneat-free-vuetify-nuxtjs-admin-template](https://github.com/themeselection/sneat-vuetify-nuxtjs-admin-template-free) - Open Source NuxtJS admin template based on latest Vuetify, NuxtJS 3, Vue 3 & Typescript for developing responsive web apps with ease.
+- [YummyAdmin](https://github.com/doroudi/YummyAdmin) - 📈 Totaly free Vue 3 Dashboard template based on NaiveUI, Typescript, MSW, Tailwindcss, multilanguage, fully RTL support and production ready.
 
 
 ## Tools
