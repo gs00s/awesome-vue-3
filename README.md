@@ -16,6 +16,7 @@ A curated list of awesome things related to Vue 3
   - [Articles](#articles)
   - [Packages](#packages)
     - [Form editor](#form-editor)
+  - [Mobile and Native](#mobile-and-native)
   - [Examples](#examples)
   - [Tools](#tools)
   - [Videos](#videos)
@@ -231,6 +232,21 @@ A curated list of awesome things related to Vue 3
 #### Form editor
 
 - [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor. The PC depends on element-plus while the mobile depends on vant.
+
+## Mobile and Native
+
+_Frameworks_
+
+- [Vue Lynx](https://vue.lynxjs.org) - A Vue 3 custom renderer for [Lynx](https://lynxjs.org), rendering to native iOS and Android views and compiling to web from one codebase.
+- [Ionic Vue](https://ionicframework.com/docs/vue/overview) - The Vue 3 build of Ionic, packaging a web app as an iOS, Android or PWA target through Capacitor.
+- [NativeScript-Vue](https://nativescript-vue.org/) - Native iOS and Android applications written in Vue, rendering platform widgets instead of a web view.
+- [Quasar](https://quasar.dev/) - A Vue 3 framework that builds one codebase into SPA, PWA, Electron, Capacitor and Cordova targets.
+- [Taro](https://taro.zone/) - A cross-platform framework with Vue 3 support, compiling to HarmonyOS, React Native, web and the mini-program platforms.
+- [uni-app](https://uniapp.dcloud.net.cn/) - A Vue 3 framework that compiles to iOS, Android, web and the mini-program platforms.
+
+_Component libraries_
+
+- [Vy UI](https://vyui.dev) - Headless primitives and styled components for Vue Lynx, with a shadcn-style CLI for copying component source into your project.
 
 ## Examples
 
