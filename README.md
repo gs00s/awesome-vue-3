@@ -227,6 +227,7 @@ A curated list of awesome things related to Vue 3
 - [Formisch](https://formisch.dev/vue/guides/introduction/) - A form library with focus on performance, type safety and bundle size
 - [Toastflow](https://github.com/adrianjanocko/toastflow) - 💡 Headless toast (notification) engine + Vue 3 renderer (TS-first, CSS-first theming, highly customizable).
 - [hy-app](https://github.com/MrGao-hy/hy-design-uni) - A Vue 3 and TypeScript UI component library for UniApp, providing mobile-first components, theme customization, dark mode support, and cross-platform compatibility.
+- [openkline-vue](https://github.com/rekurt/openkline-vue) - Vue 3 component and composable for canvas candlestick charts, technical indicators, and drawing tools.
 
 #### Form editor
 
