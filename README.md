@@ -326,3 +326,4 @@ A curated list of awesome things related to Vue 3
 - [Become a Ninja with Vue - online training (EN and FR versions)](https://vue-exercises.ninja-squad.com)
 - [Introduction to Vue 3](https://frontendmasters.com/courses/vue-3/)
 - [Build Web Apps with Vue JS 3 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/)
+- [Machine Learning 101](https://machinelearning101.com) - Interactive Vue 3 and Nuxt learning platform that teaches machine learning through in-browser visualizations.
