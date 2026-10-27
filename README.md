@@ -274,6 +274,7 @@ A curated list of awesome things related to Vue 3
 - [Sneat-free-vuetify-nuxtjs-admin-template](https://github.com/themeselection/sneat-vuetify-nuxtjs-admin-template-free) - Open Source NuxtJS admin template based on latest Vuetify, NuxtJS 3, Vue 3 & Typescript for developing responsive web apps with ease.
 - [YummyAdmin](https://github.com/doroudi/YummyAdmin) - 📈 Totaly free Vue 3 Dashboard template based on NaiveUI, Typescript, MSW, Tailwindcss, multilanguage, fully RTL support and production ready.
 - [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends.
+- [tutorial-vue-website](https://github.com/light-cloud-com/tutorial-vue-website) - Vue 3 + Vite website template set up to deploy on Light Cloud - [Guide](https://docs.light-cloud.com/platform/frameworks/vue)
 
 ## Tools
 
